@@ -1,0 +1,75 @@
+ body{
+ background-color:#789876;
+  }
+.header{
+
+	text-align:center;
+	font-family:"HSEfont";
+	font-size:25px;
+	background-color:#334502;
+	padding: 10px 20px 10px 20px;
+    border: 6px solid #b87635;
+	
+}
+
+.maininfo{
+	    border: 6px solid #b87635;
+		padding: 10px 20px 10px 20px;
+		float:left;
+		width:250px;
+}
+h1{
+font-family: "HSEfont";
+
+src: url("/css/HSEfont.woff") format("woff");
+}
+p{
+font-family: 'Poiret One', cursive;
+font-size: 24px;
+
+}
+
+
+.block1{
+	float:right;
+	height:50%;
+	width:50%;
+	font-family: 'Poiret One';
+	font-size:15px;
+	
+}
+.networks{
+
+background-color:#333333;
+    color:#ffffff;
+  font-family: "HSEfont";
+ 
+
+src: url("/css/HSEfont.woff") format("woff");
+width:300px;
+height:50px;
+border-color:#b87635;
+bottom:300px;
+}
+
+img{
+	height:80px;
+	width:80px%;
+border-radius:50%;
+right:300px;
+
+}
+.img2{
+height:30px;
+width:30px%;
+}
+
+
+@font-face {
+font-family: "HSEfont"; 
+src: url("fonts/HSEfont.woff") format("woff"); 
+font-style: normal; 
+font-weight: normal; 
+
+} 
+
